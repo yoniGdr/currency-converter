@@ -15,3 +15,4 @@ const bootstrapReact =
 
 
 window.addEventListener('DOMContentLoaded', bootstrapReact );
+ 
